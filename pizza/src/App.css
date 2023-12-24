@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Silkscreen&display=swap');
+
+#root {
+  margin: 0 auto;
+  text-align: center;
+  font-family: 'Lora', serif;
+}
+
+
+.centro{
+  margin-top: 8%;
+  margin-left: 20%;
+}
+
+
+.active{
+  color: rgba(2, 2, 2, 0.76);
+}
+
+.inactive{
+  color: white;
+}
+
+.caja{
+  
+  width: 200px;
+  height: 300px;
+}
+
+.cajas{
+  height: 500px;
+}
+
+.carrito{
+  margin-top: 200px;
+}
+
+.notpage{
+  margin-top: 100px;
+}

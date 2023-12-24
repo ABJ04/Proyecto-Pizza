@@ -1,0 +1,13 @@
+.imgPizza{
+    width: 70px;
+}
+
+.bg{
+    background-color: rgba(253, 13, 45, 0.74)
+}
+
+.d-flex h4{
+    margin-top: 10px;
+    margin-left: 5px;
+    font-size: 1.2rem;
+}
